@@ -6,4 +6,4 @@ Virtual threads were introduced with Java's project loom . This repository provi
 Deep detailed documentation on virtual threads.
 Link => https://docs.google.com/document/d/11eqCqjdkdNL19OZrqTx9g01aUX-a8JWojSEVgdSxsQ8/edit?usp=sharing
 
-![Uploading Screenshot 2024-10-27 at 3.32.48 PM.png…]()
+
